@@ -6,3 +6,7 @@ The password is encrypted using another npm module named bcrypt.
 A new user is created in the databse when they register and the data is used when the user tries to sign in next time.
 The API built by Clarifai recognises a face in the given URL of an image if any. Every time the user tries to detect a link, the number of uses by them increses in the database. A leaderboard is maintained based on this data which is constantly updated.
 It is fully responsive and has implemented everything required for a full stack application.
+
+
+https://user-images.githubusercontent.com/91773147/232238973-ebcf81af-2dcb-4d74-b1c6-7f72c03a8cf5.mp4
+
