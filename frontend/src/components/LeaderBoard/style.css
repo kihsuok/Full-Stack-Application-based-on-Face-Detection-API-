@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+* > * {
+    font-family: "Poppins", cursive;
+    margin: 0;
+}
+
+#profile{
+    width: 50%;
+    margin-top: 3em;
+    margin-left: 24%;
+}
+
+#profile .flex{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+    
+}
+
+#profile .flex .item{
+    display: flex;
+    align-items: center;
+}
+
+
+#profile .flex .info{
+   padding: 1em;
+}

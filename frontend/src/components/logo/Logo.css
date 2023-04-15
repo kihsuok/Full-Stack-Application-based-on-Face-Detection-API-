@@ -1,0 +1,13 @@
+#logo{
+    width: 150px;
+    height: 160px;
+}
+.Tilt{
+    padding: 5px;
+    justify-content: center;
+    border: 2px;
+    background-color: aliceblue;
+    display: flex;
+    width: fit-content;
+    
+}
